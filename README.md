@@ -1,5 +1,7 @@
 # Inferring Compositional 4D Scenes without Ever Seeing One
 
+### CVPR2026
+
 [Paper](https://arxiv.org/abs/2512.05272) | [Project Website](https://com4d.insait.ai) | [BibTeX](#bibtex)
 
 ## Authors
